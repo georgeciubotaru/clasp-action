@@ -1,5 +1,5 @@
 name: 'Clasp Action'
-description: 'Push or deploy to Google Apps Script using clasp'
+description: 'Push or deploy to Google Apps Script using clasp version 2.5.0.'
 branding:
   icon: 'arrow-up-circle'
   color: 'blue'
